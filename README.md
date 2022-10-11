@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**GastonSanPedro/GastonSanPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encanta el desarrollo web, trabajar con Javascript con Typescript y sus frameworks de frontend como React . También puedo construir aplicaciones backend con Node.js y Nest Js.
+Mi función principal es asegurar que el sitio web sea visualmente atractivo y fácil de navegar, disfruto en mi trabajo de las siguientes actividades: Planificar, Dirigir, Diseñar y desarrollar proyectos web, como así proponer ideas, y analizar requerimientos para llevarlos a cabo con las mejores prácticas de desarrollo de software.
 
-Here are some ideas to get you started:
+TECNOLOGIAS:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FrontEnd:
+✅Desarrollo Web con JavaScript, TypeScript, React-Redux, Axios, AJAX.
+✅Layout web (Html, Css, Sass,Less, Bootstrap).
+✅Desarrollo mobile con React-Native.
+
+BackEnd:
+✅JavaScript, TypeScript, Node js, Express, Nest Js, Docker.
+✅(C#.Net) 
+✅SQL, MySQLworkbench, MySQLserver, MongoDB, Sequelize, TypeOrm.
+
+SOFT SKILLS:
+⭕Autodidacta
+⭕Atención al detalle
+⭕Organización
+⭕Aprendizaje Continuo
+⭕Capacidad Resolutiva
+⭕Trabajo en Equipo
+⭕Compromiso
+⭕Responsabilidad
+
+Informacion y conocimientos extras:
+⭕Inglés intermedio
+⭕Git, Github y Azure Devops.
+⭕Conocimiento en metodologias agiles (Scrum).
