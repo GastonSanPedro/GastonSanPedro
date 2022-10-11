@@ -1,6 +1,6 @@
-### Hola a todos! 👋
+### Hi, I'am Gaston! 👋
 
-Mi nombre es Gaston, empeze a estudiar programacion hace 2 años, primero por hobby y ahora es de las cosas en las que uso la mayor parte de mi tiempo. Me gusta perfecciar mis aplicaciones, siempre recibiendo consejos y adaptandolos segun las recomendaciones. Me encanta el desarrollo web, trabajar con Javascript con Typescript y sus frameworks de frontend como React . También puedo construir aplicaciones backend con Node.js y Nest Js.
+Empeze a estudiar programacion hace 2 años, primero por hobby y ahora es de las cosas en las que uso la mayor parte de mi tiempo. Me gusta perfecciar mis aplicaciones, siempre recibiendo consejos y adaptandolos segun las recomendaciones. Me encanta el desarrollo web, trabajar con Javascript con Typescript y sus frameworks de frontend como React . También puedo construir aplicaciones backend con Node.js y Nest Js.
 Mi función principal es asegurar que el sitio web sea visualmente atractivo y fácil de navegar, disfruto en mi trabajo de las siguientes actividades: Planificar, Dirigir, Diseñar y desarrollar proyectos web, como así proponer ideas, y analizar requerimientos para llevarlos a cabo con las mejores prácticas de desarrollo de software.
 
 TECNOLOGIAS:
