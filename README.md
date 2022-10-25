@@ -7,7 +7,7 @@
 
 - 👯 Estuve trabajando en [Weather App](https://weather-app-gaston-san-pedro.netlify.app/)
 
-- 🌱 Y tambien trabaje en [Dogs Project](https://pi-dogs-theta.vercel.app/home)
+- 🌱 Y tambien trabaje en [Dogs Project](https://pi-dogs-theta.vercel.app/)
 
 - 💬 Podes preguntarme sobre las siguientes tecnologias y más! **React, NodeJS, Redux, NestJS, Express, MongoDB, PostgreSql**
 
